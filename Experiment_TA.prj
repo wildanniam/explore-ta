@@ -6,11 +6,12 @@
    <UUID>82966729-0ad4-4792-974d-d18be7d0609c</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.2.3</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.2.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/wildanniam/Katalon Studio/Experiment_TA/Experiment_TA.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

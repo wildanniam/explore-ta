@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Collaborate With Me</name>
+   <tag></tag>
+   <elementGuidId>ad0e28e8-064f-48e0-a449-430918a4377c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8c7d1546-6d71-4131-a3f3-ad86788d6ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fc0f8179-ec20-440f-ba36-656b10719765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative inline-flex items-center justify-center gap-3 rounded-full overflow-hidden px-6 py-3 bg-gradient-to-b from-[#99E39E] to-[#4BB255] border border-white/15 shadow-[0_8px_24px_rgba(75,178,85,0.45),inset_0_-2px_6px_rgba(0,0,0,0.35)] transition-all duration-200 ease-out will-change-transform hover:shadow-[0_12px_28px_rgba(75,178,85,0.6),inset_0_-2px_8px_rgba(0,0,0,0.35)] hover:-translate-y-[1px] active:translate-y-0 active:shadow-[0_6px_18px_rgba(75,178,85,0.45),inset_0_-1px_4px_rgba(0,0,0,0.4)] disabled:opacity-60 disabled:cursor-not-allowed button-radius</value>
+      <webElementGuid>dd02b1af-a35e-4cd7-894a-dd9cc5dcf406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Collaborate With Me</value>
+      <webElementGuid>d06045e3-b3e1-4c71-868e-09ec4163f7e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home&quot;)/div[@class=&quot;container mx-auto px-4&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-12 items-center&quot;]/div[@class=&quot;order-2 md:order-1&quot;]/div[@class=&quot;mt-8 flex flex-wrap items-center gap-3&quot;]/button[@class=&quot;relative inline-flex items-center justify-center gap-3 rounded-full overflow-hidden px-6 py-3 bg-gradient-to-b from-[#99E39E] to-[#4BB255] border border-white/15 shadow-[0_8px_24px_rgba(75,178,85,0.45),inset_0_-2px_6px_rgba(0,0,0,0.35)] transition-all duration-200 ease-out will-change-transform hover:shadow-[0_12px_28px_rgba(75,178,85,0.6),inset_0_-2px_8px_rgba(0,0,0,0.35)] hover:-translate-y-[1px] active:translate-y-0 active:shadow-[0_6px_18px_rgba(75,178,85,0.45),inset_0_-1px_4px_rgba(0,0,0,0.4)] disabled:opacity-60 disabled:cursor-not-allowed button-radius&quot;]</value>
+      <webElementGuid>907f9e62-6a32-4db2-bc96-ae7c8ff7e599</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>39132b46-f573-4c40-b798-9bf63ddd9766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='home']/div[3]/div/div/div[2]/button[2]</value>
+      <webElementGuid>7ee5bad6-3f78-422a-8e73-389de17271a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View My Projects'])[1]/following::button[1]</value>
+      <webElementGuid>224cbcf1-7f9c-4709-b3e4-99d6630c672f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fullstack Engineer'])[1]/following::button[2]</value>
+      <webElementGuid>d8d63d5d-bd65-4974-9509-19d263109a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secure by Design'])[1]/preceding::button[1]</value>
+      <webElementGuid>3de44e28-0b31-46b7-a31d-b9e8a086fcfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>1a86dcc2-578d-4c02-8a24-a9a6c4d60a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Collaborate With Me' or . = 'Collaborate With Me')]</value>
+      <webElementGuid>bb9f5a07-3032-4201-97f9-cc73c27a94e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

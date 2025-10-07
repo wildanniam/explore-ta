@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Wildan Home</name>
+   <tag></tag>
+   <elementGuidId>c0925cc3-2963-4ad6-a6b8-6b3498891bd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.font-semibold.gradient-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>01215520-f2ae-4147-82b1-5e6f5acb551f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-semibold gradient-text</value>
+      <webElementGuid>a483a3e0-4ad2-4fb1-aceb-7476ea0e7a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wildan</value>
+      <webElementGuid>8f0e81d5-d42d-4132-9f55-5b69ffa03974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;dark&quot;]/body[@class=&quot;geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased snap-y snap-mandatory&quot;]/div[@class=&quot;sticky z-50 flex w-full justify-center transition-all duration-500 ease-out top-0&quot;]/div[@class=&quot;w-full transition-all duration-500 ease-out max-w-none&quot;]/div[@class=&quot;glass border border-border/60 shadow-sm mx-auto flex items-center justify-between transition-all duration-500 ease-out rounded-none px-6 py-4 backdrop-blur-lg&quot;]/a[@class=&quot;flex items-center gap-3 text-lg&quot;]/span[@class=&quot;font-semibold gradient-text&quot;]</value>
+      <webElementGuid>4c5b8f9e-25e5-4e64-8c49-7c2697e41a99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::span[1]</value>
+      <webElementGuid>8209e94d-b2fa-4c9c-9017-0b777fdffed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::span[3]</value>
+      <webElementGuid>cacc4d2a-85b1-47fa-86af-42ee79cfe60a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wildan']/parent::*</value>
+      <webElementGuid>3773ecea-dbdf-48d5-a8ac-b922b452d733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>997e5924-9fa3-43b7-8bbe-933ff79e4f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Wildan' or . = 'Wildan')]</value>
+      <webElementGuid>aecf4a13-d61d-4428-9d13-89897c995273</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
